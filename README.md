@@ -1,9 +1,9 @@
-Hi, I'm Josh. I'm an AI + Design Engineer making systems that matters. [View resume]([https://docs.google.com/document/d/1OlH_3r2XrZcFldRtcRe_oUKvq_N7wvVwd4fasFS9A5o/edit?usp=sharing](https://drive.google.com/file/d/16ebuqXvVbdBxEKRYjMVmd4Q9Utnz1rbV/view?usp=sharing)).
+Hi, I'm Josh. I'm an AI + Design Engineer making systems that matters. [View resume]((https://drive.google.com/file/d/16ebuqXvVbdBxEKRYjMVmd4Q9Utnz1rbV/view?usp=sharing)).
 
 Experience: [`Eskwelabs`](https://eskwelabs.com) (Data Modeling Internship) [`Data Engineering Pilipinas`](https://tpp.dataengineering.ph/) (Project GabayPoz volunteer) 
 
-|![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mithi&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mithi&theme=dracula)|
-|-----|------|
+| ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=boosquack&theme=dracula) | ![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=boosquack&theme=dracula) |
+| --- | --- |
 
  
 Above stats generated with: [`tipsy/profile-summary-for-github`](https://github.com/tipsy/profile-summary-for-github)
