@@ -1,4 +1,4 @@
-Hi, I'm Josh. I'm an AI + Design Engineer making systems that matters. [View resume]((https://drive.google.com/file/d/16ebuqXvVbdBxEKRYjMVmd4Q9Utnz1rbV/view?usp=sharing)).
+Hi, I'm Josh. I'm an AI + Design Engineer making systems that matters. [View resume]((https://drive.google.com/file/d/16ebuqXvVbdBxEKRYjMVmd4Q9Utnz1rbV/view?usp=sharing).
 
 Experience: [`Eskwelabs`](https://eskwelabs.com) (Data Modeling Internship) [`Data Engineering Pilipinas`](https://tpp.dataengineering.ph/) (Project GabayPoz volunteer) 
 
