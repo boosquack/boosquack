@@ -2,7 +2,7 @@ Hi, I'm Josh. I'm an AI + Design Engineer making systems that matters. [View res
 
 Experience: [`Eskwelabs`](https://eskwelabs.com) (Data Modeling Internship) [`Data Engineering Pilipinas`](https://tpp.dataengineering.ph/) (Project GabayPoz volunteer) 
 
-| ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=boosquack&theme=dracula) | ![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=boosquack&theme=dracula) |
+| ![GitHub Profile Summary](./profile-summary-card-output/dracula/3-stats.svg) | ![Repos per language](./profile-summary-card-output/dracula/1-repos-per-language.svg) |
 | --- | --- |
 
  
