@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Josh. I'm an AI + Design Engineer making systems that matters. [View resume]([https://docs.google.com/document/d/1OlH_3r2XrZcFldRtcRe_oUKvq_N7wvVwd4fasFS9A5o/edit?usp=sharing](https://drive.google.com/file/d/16ebuqXvVbdBxEKRYjMVmd4Q9Utnz1rbV/view?usp=sharing)).
 
-<!--
-**boosquack/boosquack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experience: [`Eskwelabs`](https://eskwelabs.com) (Data Modeling Internship) [`Data Engineering Pilipinas`](https://tpp.dataengineering.ph/) (Project GabayPoz volunteer) 
 
-Here are some ideas to get you started:
+|![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mithi&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mithi&theme=dracula)|
+|-----|------|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+Above stats generated with: [`tipsy/profile-summary-for-github`](https://github.com/tipsy/profile-summary-for-github)
+
+
+# Recent Projects
+
+2. [Naya](https://nayaph.tech) (Flutter, Django, PostgreSQL)
+   - A maternal care app for Filipino mothers covering prenatal care, childbirth prep, and postpartum, with a dashboard for doctors to track patients between visits. Currently in a feasibility beta for my thesis.
+3. [Synthetic AML Transaction Dataset](https://github.com/boosquack/synthetic-aml-detection) (Python)
+   - A synthetic transaction monitoring dataset built on a hierarchical latent factor model, so money laundering typologies emerge from customer behavior instead of being injected as flags. Grounded in Philippine AML regulation. Built as my Eskwelabs capstone.
+4. [Project GabayPoz](https://gabaypoz.org/) 
+   - A community system for Pozzorubio, Pangasinan that matches students to academic programs and funding. I helped build the scholarship registry behind it as a volunteer with Data Engineering Pilipinas.
