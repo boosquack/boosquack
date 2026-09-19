@@ -11,9 +11,9 @@ Above stats generated with: [`tipsy/profile-summary-for-github`](https://github.
 
 # Recent Projects
 
+1. [Consumer Review RAG](https://consumer-review-rag.streamlit.app/) (Python, ChromaDB, Streamlit) ([code](https://github.com/boosquack/consumer-review-rag))
+   - Exploratory analysis and a cited question-answering app over public Amazon reviews of three P&G haircare brands. Every answer cites its source reviews, and the app declines when the reviews do not cover the question. Scored on an 18-question gold set (retrieval hit@6 of 0.86), with the failures documented. The first load can take a few minutes.
 2. [Naya](https://nayaph.tech) (Flutter, Django, PostgreSQL)
    - A maternal care app for Filipino mothers covering prenatal care, childbirth prep, and postpartum, with a dashboard for doctors to track patients between visits. Currently in a feasibility beta for my thesis.
-3. [Synthetic AML Transaction Dataset](https://github.com/boosquack/synthetic-aml-detection) (Python)
-   - A synthetic transaction monitoring dataset built on a hierarchical latent factor model, so money laundering typologies emerge from customer behavior instead of being injected as flags. Grounded in Philippine AML regulation. Built as my Eskwelabs capstone.
-4. [Project GabayPoz](https://gabaypoz.org/) 
+3. [Project GabayPoz](https://gabaypoz.org/) 
    - A community system for Pozzorubio, Pangasinan that matches students to academic programs and funding. I helped build the scholarship registry behind it as a volunteer with Data Engineering Pilipinas.
